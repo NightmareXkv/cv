@@ -1,0 +1,22 @@
+body{
+    background-image: url("prof.jpg");
+    color :antiquewhite;
+}
+ th, td{
+    
+   border-style: dotted;
+   border-width: 2px ;
+}
+h2{
+    border-style: dashed;
+    border-color: white;
+}
+h3{
+    border-style: dashed;
+    border-color: white;
+}
+h4{
+    border-style: dashed;
+    border-color: whitesmoke;
+}
+
